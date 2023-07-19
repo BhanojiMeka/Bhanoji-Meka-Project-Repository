@@ -9,7 +9,7 @@ Master of Analytics graduate with a strong aptitude for analysis and an eye for 
 ## Projects
 ## [Capstont Deliverable : A Quantative analysis of Board Categories in US Based organizations](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/tree/d24a53192120dee9c38a8fdbaec2afaa8157fce5/Capstone%20Deliverable)
 
-#000000 Code file (my part):[Capstone_Bhanoji_Python](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/22c88bca52dd744e4ac13c5c0e625f7708eaf3c3/Capstone%20Deliverable/Group_project.ipynb)
+#000000Code file (my part):[Capstone_Bhanoji_Python](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/22c88bca52dd744e4ac13c5c0e625f7708eaf3c3/Capstone%20Deliverable/Group_project.ipynb)
 #000000 Tableau Dashboards (group):[Capstone_Final Project.twbx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/22c88bca52dd744e4ac13c5c0e625f7708eaf3c3/Capstone%20Deliverable/Capstone_Final%20Project.twbx) 
 #000000 Presentation Slides (group):[ALY6980_Group7_CapstoneProjectPresentation.pptx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/22c88bca52dd744e4ac13c5c0e625f7708eaf3c3/Capstone%20Deliverable/ALY6980_Group7_CapstoneProjectPresentation.pptx)
 #000000 Project Report (my part): [ALY6980_Capstone_Report.docx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/22c88bca52dd744e4ac13c5c0e625f7708eaf3c3/Capstone%20Deliverable/ALY6980_Capstone_Report.docx)
