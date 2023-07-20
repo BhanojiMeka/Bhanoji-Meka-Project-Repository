@@ -17,4 +17,4 @@ Master of Analytics graduate with a strong aptitude for analysis and an eye for 
 
 * **Project Report (my part):** [ALY6980_Capstone_Report.docx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/22c88bca52dd744e4ac13c5c0e625f7708eaf3c3/Capstone%20Deliverable/ALY6980_Capstone_Report.docx)
 
-###### **DESCRIPTION:**
+>###### **DESCRIPTION:**
