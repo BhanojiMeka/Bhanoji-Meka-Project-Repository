@@ -21,3 +21,9 @@ Master of Analytics graduate with a strong aptitude for analysis and an eye for 
 >###### **DESCRIPTION:**
 
 In collaboration with my teammates, I participated in a final capstone project sponsored by Free Float Media. Our project focused on conducting an Empirical Examination of Board Types in Companies Based in the United States, utilizing a large dataset comprising over 56,000 records. The objective of our study was to analyze the consequential impact of director boards by predicting their categorization and identifying the influencing factors. Our comprehensive report encompasses diverse elements of our research, including literature reviews, research methodologies, hypotheses formulation, data analysis, modeling, and more. Throughout our analysis, we aimed to address the following primary question:
+
+
+>###### **Identify The impact of various characteristics possessed by board directors and CEOs on board categorization and the identification of influencing factors?**
+
+#### The path I Followed:
+
