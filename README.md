@@ -45,4 +45,36 @@ Exploratory Data analysis, Data Cleaning, Data Transformation, Feature Engineeri
 
 
 
+## [Uber Data Analysis and Price Prediction](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/tree/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology)
+
+* **Code file :** [ALY6140_Bhanoji_Python](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4_1.ipynb)(https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4.ipynb)
+* **Presentation Slides :** [ALY6140_group4.pptx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4.pptx)
+* **Project Report :** [ALY6140_group4_FinalReport.docx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/Capstone_group4_FinalReport.docx)
+
+
+>###### **DESCRIPTION:**
+
+In the Analytical System Technology project, my focus was on developing interactive dashboards to be seamlessly integrated into Uber's Data Analysis and Price Prediction system. This individual endeavor involved the creation of comprehensive visualization reports and a suite of drill-down functionalities to facilitate the monitoring and analysis of Uber ride utilization. Our project's primary objective was to enhance the accuracy of cost predictions for future Uber rides by considering factors beyond just distance, such as weather conditions, time of day, and day of the week. By leveraging Python for data visualization, we enabled the client to delve deeper into the data, uncover idle periods, and identify operational inefficiencies. This, in turn, supports the formulation of a robust business strategy to optimize the utilization of idle Uber rides and identify opportunities for cost reduction. The central inquiry we sought to address through this analysis was:
+
+
+>###### **The goal to build a trustworthy brand that customers are more likely to choose over competitors.**
+
+#### The path I Followed:
+
+* Properly managed and analyzed to identify relevant data points and extract meaningful insights.
+* Developed interactive visualization dashboards using Python to analyze and assess the pricing of forthcoming Uber rides, taking into account multiple variables including distance, weather conditions, time of day, and day of the week.
+* Devised an approach to enhance cost efficiency in Uber rides by utilizing advanced techniques such as Gradient Boosting and Random Forest to predict the optimal impact time.
+* Built a funtion to predict the cost of future Uber rides based not only on distance but also on weather conditions, time of day, and day of the week.
+
+
+>###### **SKILLS:**
+EDA, Data Cleaning, Data Transformation, Descriptive Analysis, Dashboard Reports, Data Visualization, Utilization Analysis, Recommendations
+
+>###### **TECHNOLOGY:**
+Excel, Python
+
+<img width="309" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/fcda9236-d719-41d3-87f8-f071731e1560"><img width="349" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/47f912dc-2173-4a66-ab5b-3ec58d75ac5c">
+![Unknown](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/61696e89-e3e1-4f8e-90c0-28f0657df24a)<img width="570" alt="Pasted Graphic" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/bd9851b1-dcc7-4b9c-9311-24245a8b172b">
+
+
 
