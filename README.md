@@ -74,7 +74,7 @@ EDA, Data Cleaning, Data Transformation, Descriptive Analysis, Dashboard Reports
 Excel, Python
 
 <img width="450" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/fcda9236-d719-41d3-87f8-f071731e1560"><img width="450" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/47f912dc-2173-4a66-ab5b-3ec58d75ac5c">
-![Unknown](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/61696e89-e3e1-4f8e-90c0-28f0657df24a)<img width="570" alt="Pasted Graphic" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/bd9851b1-dcc7-4b9c-9311-24245a8b172b">
+![Unknown](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/61696e89-e3e1-4f8e-90c0-28f0657df24a)<img width="350" alt="Pasted Graphic" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/bd9851b1-dcc7-4b9c-9311-24245a8b172b">
 
 
 
