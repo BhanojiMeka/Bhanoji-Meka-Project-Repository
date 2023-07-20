@@ -27,3 +27,7 @@ In collaboration with my teammates, I participated in a final capstone project s
 
 #### The path I Followed:
 
+**Successfully executed data warehousing for a sizable dataset comprising 56,000 records, Leveraged Tableau to create visually appealing dashboards for conducting Exploratory Data Analysis.**
+**During the data preprocessing and engineering phase, I employed Python to cleanse the dataset and analyzed 32 new features related to board categorization based on the characteristics of the directors.**
+**To predict the board category with a high level of accuracy (82%), I implemented various machine learning models such as Logistic Regression, Random Forest, and more.**
+**Finally, I applied Python Gradient Boost to implement a meticulous machine learning process, selecting the best model out of the 14 possibilities available.**
