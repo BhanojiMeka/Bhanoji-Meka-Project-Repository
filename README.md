@@ -31,3 +31,14 @@ In collaboration with my teammates, I participated in a final capstone project s
 * During the data preprocessing and engineering phase, I employed Python to cleanse the dataset and analyzed 32 new features related to board categorization based on the characteristics of the directors.
 * To predict the board category with a high level of accuracy (82%), I implemented various machine learning models such as Logistic Regression, Random Forest, and more.
 * Finally, I applied Python Gradient Boost to implement a meticulous machine learning process, selecting the best model out of the 14 possibilities available.
+
+
+>###### **SKILLS:**
+Exploratory Data analysis, Data Cleaning, Data Transformation, Feature Engineering, Descriptive Analysis, Visualization, Writing Functions, Predictive Modeling, Classification
+
+
+>###### **TECHNOLOGY:**
+Tableau, Excel, Python: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Statsmodels
+
+<img width="472" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/02df9ac1-d3f1-49a6-ac86-9f3bd452e43f">
+
