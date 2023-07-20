@@ -41,5 +41,8 @@ Exploratory Data analysis, Data Cleaning, Data Transformation, Feature Engineeri
 **Tableau, Excel, Python:** Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Statsmodels
 
 <img width="472" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/02df9ac1-d3f1-49a6-ac86-9f3bd452e43f"><img width="480" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/400e3388-07d1-4bb5-834f-a8434514d996">
+<img width="397" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/915f7bda-036d-4954-bfd0-30ae4a19ee78"><img width="468" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/5f87fe14-81fb-414b-aa88-93353a61b742">
+
+
 
 
