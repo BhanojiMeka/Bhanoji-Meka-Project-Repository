@@ -47,7 +47,7 @@ Exploratory Data analysis, Data Cleaning, Data Transformation, Feature Engineeri
 
 ## [Uber Data Analysis and Price Prediction](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/tree/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology)
 
-* **Code file :** [ALY6140_Bhanoji_Python](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4_1.ipynb)(https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4.ipynb)
+* **Code file :** [ALY6140_Bhanoji_Python](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4_1.ipynb https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4.ipynb)
 * **Presentation Slides :** [ALY6140_group4.pptx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4.pptx)
 * **Project Report :** [ALY6140_group4_FinalReport.docx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/Capstone_group4_FinalReport.docx)
 
