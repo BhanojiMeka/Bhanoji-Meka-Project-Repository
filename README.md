@@ -47,7 +47,7 @@ Exploratory Data analysis, Data Cleaning, Data Transformation, Feature Engineeri
 
 ## [Uber Data Analysis and Price Prediction](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/tree/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology)
 
-* **Code file :** [ALY6140_Bhanoji_Python](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4.ipynb)[ALY6140_Bhanoji_python_1](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/55cc4dbfeec1fe893e0d70d414c43d70cd10526a/Analytics%20System%20Technology/capstone_group4_1.ipynb)
+* **Code file :** [ALY6140_Bhanoji_Python](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4.ipynb) [ALY6140_Bhanoji_python_1](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/55cc4dbfeec1fe893e0d70d414c43d70cd10526a/Analytics%20System%20Technology/capstone_group4_1.ipynb)
 * **Presentation Slides :** [ALY6140_group4.pptx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/capstone_group4.pptx)
 * **Project Report :** [ALY6140_group4_FinalReport.docx](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/5b491fbb6c2e72f2124f4b255eca576e28ec1772/Analytics%20System%20Technology/Capstone_group4_FinalReport.docx)
 
@@ -74,7 +74,7 @@ EDA, Data Cleaning, Data Transformation, Descriptive Analysis, Dashboard Reports
 Excel, Python
 
 <img width="309" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/fcda9236-d719-41d3-87f8-f071731e1560"><img width="349" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/47f912dc-2173-4a66-ab5b-3ec58d75ac5c">
-![Unknown](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/61696e89-e3e1-4f8e-90c0-28f0657df24a)<img width="570" alt="Pasted Graphic" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/bd9851b1-dcc7-4b9c-9311-24245a8b172b">
+![Unknown](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/61696e89-e3e1-4f8e-90c0-28f0657df24a, =250x250)<img width="570" alt="Pasted Graphic" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/bd9851b1-dcc7-4b9c-9311-24245a8b172b">
 
 
 
