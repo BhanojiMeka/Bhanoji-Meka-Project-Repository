@@ -106,9 +106,9 @@ Data Cleaning, EDA, Data Transformation, Visualization, Incident Response Analys
 >###### **TECHNOLOGY:**
 Excel, Apache Spark, Databricks: PySpark, SQL
 
-<img width="246" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/8cfd6952-3ca7-4205-acfc-fd96fc9b2ae2"><img width="468" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/753f2242-8011-48b1-9af5-36d8e166c1b1">
+<img width="330" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/8cfd6952-3ca7-4205-acfc-fd96fc9b2ae2"><img width="468" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/753f2242-8011-48b1-9af5-36d8e166c1b1">
 
-<img width="239" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/1b92075f-af67-4b4e-b69e-46c8abdfd98c"><img width="252" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/30ecf339-64dc-4f82-8d6d-2a2a0808bd86">
+<img width="350" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/1b92075f-af67-4b4e-b69e-46c8abdfd98c"><img width="350" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/30ecf339-64dc-4f82-8d6d-2a2a0808bd86">
 
 
 
