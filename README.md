@@ -40,8 +40,8 @@ Exploratory Data analysis, Data Cleaning, Data Transformation, Feature Engineeri
 >###### **TECHNOLOGY:**
 **Tableau, Excel, Python:** Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Statsmodels
 
-<img width="472" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/02df9ac1-d3f1-49a6-ac86-9f3bd452e43f"><img width="480" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/400e3388-07d1-4bb5-834f-a8434514d996">
-<img width="397" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/915f7bda-036d-4954-bfd0-30ae4a19ee78"><img width="468" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/5f87fe14-81fb-414b-aa88-93353a61b742">
+<img width="432" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/02df9ac1-d3f1-49a6-ac86-9f3bd452e43f"><img width="480" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/400e3388-07d1-4bb5-834f-a8434514d996">
+<img width="397" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/915f7bda-036d-4954-bfd0-30ae4a19ee78"><img width="432" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/5f87fe14-81fb-414b-aa88-93353a61b742">
 
 
 
@@ -73,7 +73,7 @@ EDA, Data Cleaning, Data Transformation, Descriptive Analysis, Dashboard Reports
 >###### **TECHNOLOGY:**
 Excel, Python
 
-<img width="450" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/fcda9236-d719-41d3-87f8-f071731e1560"><img width="450" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/47f912dc-2173-4a66-ab5b-3ec58d75ac5c">
+<img width="400" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/fcda9236-d719-41d3-87f8-f071731e1560"><img width="450" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/47f912dc-2173-4a66-ab5b-3ec58d75ac5c">
 ![Unknown](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/61696e89-e3e1-4f8e-90c0-28f0657df24a)<img width="350" alt="Pasted Graphic" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/bd9851b1-dcc7-4b9c-9311-24245a8b172b">
 
 
