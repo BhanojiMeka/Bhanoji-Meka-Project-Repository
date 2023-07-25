@@ -77,4 +77,38 @@ Excel, Python
 ![Unknown](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/61696e89-e3e1-4f8e-90c0-28f0657df24a)<img width="350" alt="Pasted Graphic" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/bd9851b1-dcc7-4b9c-9311-24245a8b172b">
 
 
+## [San Francisco Police Department Incidents Report Analysis](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/tree/0031147fc7b96cb8c820b84711591a9f26e29076/Big%20Data%20Management)
+
+* **Code file (my part):** [ALY6110_Final_Project_Python](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/0031147fc7b96cb8c820b84711591a9f26e29076/Big%20Data%20Management/Final%20Project%20Analysis.ipynb)
+
+* **Presentation Slides (group):** [ALY6110_Final_Presentation](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/0031147fc7b96cb8c820b84711591a9f26e29076/Big%20Data%20Management/Final%20Project(Group%20Gamma).pptx)
+
+* **Project Report (my part):** [ALY6110_Final_Report](https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/blob/0031147fc7b96cb8c820b84711591a9f26e29076/Big%20Data%20Management/Final%20Project%20Report(ALY6110).docx)
+
+
+>###### **DESCRIPTION:**
+
+I engaged in a collaborative endeavor focused on a data set derived from incident reports by the San Francisco Police Department. This extensive compilation comprises over a million incidents reported spanning from January 2003 to December 2018. Our collective efforts resulted in the creation of a comprehensive manual that offers step-by-step instructions for conducting data analysis, with a specific emphasis on Crime report Analysis using the Pyspark Algorithm, tailored for the retail industry. The ultimate objective of this manual is to aid analysts who are unfamiliar with the intricacies of handling big data through the Databricks platform. By providing clear guidance, we aim to empower individuals to effectively navigate and process substantial data sets. Throughout our analysis, the central question we sought to address was:
+
+
+>###### ** How to Enhance the Incident Response for Crime Management in San Francisco through Comprehensive Incident Analysis.**
+
+#### The path I Followed:
+
+* Explored extensive transaction data from UK-based online retail companies, consisting of over 1 billion records, by performing Exploratory Data Analysis (EDA) and Market Basket Analysis (MBA) utilizing PySpark and SQL.
+* Derived valuable insights from the analysis, particularly focusing on identifying the most popular product combinations to devise an effective product bundle sales strategy aimed at boosting revenue.
+* To facilitate others in leveraging the power of Databricks for data analysis, we meticulously compiled a comprehensive 50-page manual encompassing detailed, easy-to-follow instructions.
+
+
+>###### **SKILLS:**
+Data Cleaning, EDA, Data Transformation, Visualization, Incident Response Analysis.
+
+>###### **TECHNOLOGY:**
+Excel, Apache Spark, Databricks: PySpark, SQL
+
+<img width="246" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/8cfd6952-3ca7-4205-acfc-fd96fc9b2ae2"><img width="468" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/753f2242-8011-48b1-9af5-36d8e166c1b1">
+<img width="239" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/1b92075f-af67-4b4e-b69e-46c8abdfd98c"><img width="252" alt="image" src="https://github.com/BhanojiMeka/Bhanoji-Meka-Project-Repository/assets/132236644/30ecf339-64dc-4f82-8d6d-2a2a0808bd86">
+
+
+
 
