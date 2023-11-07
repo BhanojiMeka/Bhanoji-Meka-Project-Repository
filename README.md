@@ -95,10 +95,9 @@ I engaged in a collaborative endeavor focused on a data set derived from inciden
 
 #### The path I Followed:
 
-* Explored extensive transaction data from UK-based online retail companies, consisting of over 1 billion records, by performing Exploratory Data Analysis (EDA) and Market Basket Analysis (MBA) utilizing PySpark and SQL.
-* Derived valuable insights from the analysis, particularly focusing on identifying the most popular product combinations to devise an effective product bundle sales strategy aimed at boosting revenue.
-* To facilitate others in leveraging the power of Databricks for data analysis, we meticulously compiled a comprehensive 50-page manual encompassing detailed, easy-to-follow instructions.
-
+* Explored extensive transaction data from San Francisco police department, consisting of over 1 million records, by performing Exploratory Data Analysis (EDA) utilizing PySpark and SQL.
+* Derived valuable insights from the analysis, particularly focusing on identifying the most police deployments to devise an effective Protocol bundle aimed at Crime reduction.
+* To facilitate others in leveraging the power of Data bricks for data analysis, we meticulously compiled a comprehensive manual encompassing detailed, easy-to-follow instructions.
 
 >###### **SKILLS:**
 Data Cleaning, EDA, Data Transformation, Visualization, Incident Response Analysis.
